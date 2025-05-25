@@ -1,4 +1,4 @@
 # Документация
 
 - Папка для размещения документации по практике в формате Markdown.
-- Var_docx.md[https://github.com/Ahdyshba/practice-2025-1/blob/master/docs/Var_docx.md] — основной файл с документацией, описывающий процесс выполнения вариативной части практики.
+- [Var_docx.md](https://github.com/Ahdyshba/practice-2025-1/blob/master/docs/Var_docx.md) — основной файл с документацией, описывающий процесс выполнения вариативной части практики.
